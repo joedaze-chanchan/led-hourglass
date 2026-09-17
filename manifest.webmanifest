@@ -1,0 +1,17 @@
+{
+  "name": "LED 모래시계",
+  "short_name": "모래시계",
+  "description": "시·분·초가 60진법으로 물려 도는 LED 모래시계 타이머",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#14151a",
+  "theme_color": "#14151a",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
